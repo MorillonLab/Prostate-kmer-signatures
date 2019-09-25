@@ -56,7 +56,6 @@ dataNanoString$condition <- factor(dataNanoString$condition)
 
 # loading TCGA dataset
 dataTCGA <-as.data.frame(read.delim("Data_for_genes/genes_expression_tcga.tsv",sep="\t",header=T,check.names=F))
-#save(dataTCGA,file = paste0(dirResult,"gene_expression_tcga.RData"))
 dataTCGA <- data.frame(ID=dataTCGA$gene_name, dataTCGA[-2], check.names=F)[,-c(2:7)]
 
 # transpose
