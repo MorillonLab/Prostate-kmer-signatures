@@ -1,0 +1,13 @@
+"","PCA3","Signature mixed","Signature new_lnc"
+"Mean Normal vs Tumor",0.86,0.99,0.99
+"SD Normal vs Tumor",0.11,0.01,0.03
+"Mean Normal vs  HR",0.83,0.99,0.99
+"SD Normal vs  HR",0.11,0.04,0.02
+"Mean Normal vs  IR",0.87,0.97,0.98
+"SD Normal vs  IR",0.1,0.05,0.04
+"Mean Normal vs  LR",0.92,0.96,0.97
+"SD Normal vs  LR",0.13,0.08,0.07
+"Mean Normal+LR vs HR+IR",0.56,0.63,0.64
+"SD Normal+LR vs HR+IR",0.04,0.06,0.07
+"Mean LR vs HR",0.65,0.71,0.65
+"SD LR vs HR",0.07,0.09,0.08
