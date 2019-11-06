@@ -9,5 +9,5 @@ Scripts for reproducing results of "Reference-free transcriptome exploration rev
 
  3. **ROC-AUC_for_random_contigs.R**: This script does the same as ROC-AUC_for_contigs.R but each RNA contig is quantified in the Validation Set using a set of randomly sampled kmers.
  
- 4. **Jellyfish_counting_TCGA.pdf** : This file describes the tool and the asociated comand line used for the K-mer counting in TCGA-PRAD
+ 4. **Jellyfish_counting_TCGA.pdf** : This file describes the tool and the associated comand line used for the K-mer counting in TCGA-PRAD
 
